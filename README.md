@@ -28,12 +28,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryaBhaskar&show_icons=true&theme=default)
-
----
-
 ## 📬 Contact
 
 - 📧 Email: **suryabhaskarvempala@gmail.com**  
