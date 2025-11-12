@@ -17,10 +17,9 @@
 
 - 💬 Java, JavaScript  
 - 🎨 HTML, CSS, React  
-- 🔧 Node.js, Express, Spring Boot  
+- 🔧 Node.js, Express, Spring Boot , Rest & GraphQl Api Design 
 - 🗄️ MySQL, MongoDB  
 - ⚙️ Git, Docker, Postman
-- 🌐 Rest & GraphQl apis
 
 ---
 
