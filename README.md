@@ -19,7 +19,8 @@
 - 🎨 HTML, CSS, React  
 - 🔧 Node.js, Express, Spring Boot  
 - 🗄️ MySQL, MongoDB  
-- ⚙️ Git, Docker, Postman  
+- ⚙️ Git, Docker, Postman
+- 🌐 Rest & GraphQl apis
 
 ---
 
