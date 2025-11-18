@@ -40,7 +40,7 @@
 ## 📬 Contact
 
 - 📧 Email: **suryabhaskarvempala@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/suryabhaskar-vempala01/)
+- 💼 LinkedIn: [linkedin.com/in/suryabhaskar-vempala01/](https://www.linkedin.com/in/suryabhaskar-vempala01/)
 
 ---
 
