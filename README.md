@@ -6,20 +6,29 @@
 ---
 
 ## 🚀 What I Do
-
-- ⚡ Build full-stack web apps  
-- 🧠 Write clean, scalable code  
-- 🌍 Love Java + JavaScript  
+- Build full-stack web applications  
+- Write clean, scalable, production-ready code  
+- Passionate about Java + JavaScript ecosystems  
 
 ---
 
 ## 🛠 Tech I Use
+- **Languages:** Java, JavaScript, TypeScript  
+- **Frontend:** HTML, CSS, React, jQuery, Material UI  
+- **Backend:** Node.js, Express, Spring Boot, REST APIs, GraphQL APIs  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, Docker, Postman  
 
-- 💬 Java, JavaScript , TypeScript
-- 🎨 HTML, CSS, React , jQuery , Mui 
-- 🔧 Node.js, Express, Spring Boot , Rest & GraphQl Api Design 
-- 🗄️ MySQL, MongoDB  
-- ⚙️ Git, Docker, Postman
+---
+
+## 💼 Experience
+
+### **Software Engineer — Cura Software Solutions (Present)**
+- Working on **SQL Server**, **Node.js**, **GraphQL**, and **React**  
+- Developing scalable backend services  
+- Implementing interactive UI components  
+- Designing and optimizing database queries  
+- Building and integrating APIs with real-time features  
 
 ---
 
