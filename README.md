@@ -15,8 +15,8 @@
 
 ## 🛠 Tech I Use
 
-- 💬 Java, JavaScript  
-- 🎨 HTML, CSS, React  
+- 💬 Java, JavaScript , TypeScript
+- 🎨 HTML, CSS, React , jQuery , Mui 
 - 🔧 Node.js, Express, Spring Boot , Rest & GraphQl Api Design 
 - 🗄️ MySQL, MongoDB  
 - ⚙️ Git, Docker, Postman
