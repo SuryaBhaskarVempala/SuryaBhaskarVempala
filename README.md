@@ -14,7 +14,7 @@
 
 ## 🛠 Tech I Use
 - **Languages:** Java, JavaScript, TypeScript  
-- **Frontend:** HTML, CSS, React, jQuery, Material UI  
+- **Frontend:** HTML, CSS, React, jQuery, Material UI , GSAP
 - **Backend:** Node.js, Express, Spring Boot, REST APIs, GraphQL APIs  
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, Docker, Postman  
